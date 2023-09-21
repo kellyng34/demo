@@ -28,6 +28,7 @@ html,* {
     -webkit-backdrop-filter: blur(25px) saturate(10%);
     border-radius: 12px;
     border: 1px solid rgb(214, 100, 237);
+    box-shadow: 10px 10px rgb(192, 21, 192);
 
 
 }
@@ -37,7 +38,7 @@ html,* {
     text-transform:uppercase
 }
 .card-img {
-    width: 80%;
+    width: 65%;
 }
 
 .cardprice {
@@ -50,10 +51,11 @@ html,* {
     background-color: rgba(207, 103, 211, 0.2);
     margin: 4rem auto;
     text-align: center;
-    width: 120rem
+    width: 100rem;
     -webkit-backdrop-filter: blur(25px) saturate(10%);
     border-radius: 12px;
     border: 1px solid rgb(214, 100, 237);
+    box-shadow: 10px 10px rgb(192, 21, 192);
     
 
 
